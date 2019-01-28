@@ -5,3 +5,5 @@ All companies use their own tracking number format, so I have created special re
 - UPS
 - USPS
 - FedEX
+
+You can read how it works here - https://andrewkurochkin.com/blog/code-for-recognizing-delivery-company-by-track.
