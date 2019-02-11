@@ -1,5 +1,5 @@
 #	@author SanGreel (Andrew Kurochkin), Lviv
-#	@official site http://***************.com
+#	@official site https://andrewkurochkin.com
 #	@copyright 2018
 # 	coding: utf-8
 
